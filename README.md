@@ -2,7 +2,7 @@
 
 Contenido de esta carpeta:
 - index.html — el sitio completo en un solo archivo (fuentes, imágenes y scripts incluidos).
-- assets/og.jpg — imagen para la previsualización al compartir el link.
+- og.jpg — imagen para la previsualización al compartir el link.
 - _headers — cache para Cloudflare Pages.
 
 ## GitHub
@@ -16,6 +16,6 @@ Contenido de esta carpeta:
 
 ## Antes de publicar
 En index.html reemplazar TU-DOMINIO (2 veces) por el dominio final, por ejemplo:
-https://daniortiz.pages.dev/assets/og.jpg
+https://danisortiz.pages.dev/og.jpg
 Eso hace que WhatsApp muestre título, descripción e imagen.
-La imagen ideal es horizontal de 1200x630 px; hoy assets/og.jpg es la tapa vertical.
+La imagen ideal es horizontal de 1200x630 px; hoy og.jpg es la tapa vertical.
